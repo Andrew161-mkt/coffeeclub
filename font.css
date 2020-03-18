@@ -1,0 +1,12 @@
+@font-face{
+	font-family: 'fontA';
+	src: url('fonts/Acme-Regular.ttf');
+}
+@font-face{
+	font-family: 'fontB';
+	src: url('fonts/BarlowCondensed-SemiBoldItalic.ttf');
+}
+@font-face{
+	font-family: 'fontD';
+	src: url('fonts/DancingScript-VariableFont_wght.ttf');
+}

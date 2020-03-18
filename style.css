@@ -1,0 +1,123 @@
+*{
+	margin: 0;
+	padding:0;
+}
+div#header{
+	margin: 0 550px;
+}
+div#header h2{
+	font-family: 'fontD';
+	font-size: 40px;
+	padding-top: 40px;
+}
+div#header img{
+	width: 150px;
+	height: 150px;
+	float: left;
+}
+.clear{
+	clear: both;
+}
+#navbar{
+	background:brown;
+	width: 100%;
+}
+.nav_ul{
+	padding-left:30px;
+}
+#navbar .nav_ul li{
+	list-style: none;
+	float: left;
+}
+#navbar .nav_ul li a{
+	color: #000;
+	
+	text-decoration: none;
+	padding: 20px 50px;
+	display: block;
+	text-transform: uppercase;
+	font-family: fontA;
+}
+#navbar .nav_ul li a:hover, .active{
+	background-color: #5D4037;
+}
+#slider img{
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+}
+.quote {
+	position: absolute;
+	background-color: rgba(255, 255, 255, 0.5);
+	top:70%;
+	left: 15%;
+	padding: 30px; 
+	font-family: Myanmar3,Yunghkio;
+}
+#offer {
+	font-family: 'fontD';
+	font-size: 20px;
+	margin: 50px 550px;
+}
+#para2 {
+	font-family: 'fontA';
+	margin: 0px 300px;
+}
+#para2 p{
+	text-align: center;
+	margin: 50px 0px ;
+}
+.item{
+	text-align: center;
+}
+.item h1{
+	font-family: 'fontD';
+}
+.item p{
+	font-family: 'fontA';
+	width: 100px; 
+	margin-left: 160px
+}
+#ourshop {
+	font-family: 'fontD';
+	font-size: 20px;
+	margin: 50px 600px;
+
+}
+.item1 {
+	margin: 50px 0px;
+	font-family: 'fontA'
+}
+#tsp {
+	font-family: 'fontD';
+	font-size: 20px;
+	margin: 50px 550px;
+}
+#para3 {
+	font-family: 'fontA';
+	margin: 0px 350px;
+}
+#para3 p{
+	text-align: center;
+	margin: 50px 0px ;
+}
+.item2{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#dme {
+	font-family: 'fontD';
+	font-size: 20px;
+	margin: 50px 550px;
+}
+.item3{
+	font-family: 'fontA';
+	margin-bottom: 50px;
+}
+#foot{
+    background:brown;
+	width: 100%;	
+}
+#foot a{
+	margin: 0px 180px;
+}
